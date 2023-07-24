@@ -7,4 +7,4 @@ Data cleaning and data visualisation using
 Day-to-day country number of cases, latest country-level data. See [dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report) here.
 
 ## Outcome
-Data visualisation [document]().
+Data visualisation [document](https://github.com/remytr/COVID_Analysis/blob/main/Covid%20Statistics.pdf).
